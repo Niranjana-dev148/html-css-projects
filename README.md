@@ -10,3 +10,4 @@ This repository showcases my web development practice through a collevtion of re
 - Quiz Question Page
 - Yoga Page
 - HTML Hyperlinks
+- HTML Lists
