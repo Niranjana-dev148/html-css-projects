@@ -11,3 +11,4 @@ This repository showcases my web development practice through a collevtion of re
 - Yoga Page
 - HTML Hyperlinks
 - HTML Lists
+- Bootstrap Carousels
